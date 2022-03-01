@@ -7,7 +7,7 @@ body {
   align-items: flex-start;
   font-size: 10.5pt;
   font-weight: lighter;
-} 
+}
 div#left-column {
   flex: 1 1 400px;
   padding: 1em;
@@ -29,13 +29,13 @@ h2 {
 h1,
 h2,
 h3 {
-  margin-bottom: .35em;
+  margin-bottom: 0.35em;
 }
 
 #initials,
 h2 {
   margin: 1.5rem 10;
-  padding-bottom: .25rem;
+  padding-bottom: 0.25rem;
 }
 
 #initials {
